@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZEMPNUM01</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DOMNAME>ZEMPNUM01</DOMNAME>
+    <HEADLEN>14</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>14</SCRLEN2>
+    <SCRLEN3>14</SCRLEN3>
+    <DDTEXT>Personalnummer Septrain-01</DDTEXT>
+    <REPTEXT>Personalnummer</REPTEXT>
+    <SCRTEXT_S>Pers.Nr</SCRTEXT_S>
+    <SCRTEXT_M>Personalnummer</SCRTEXT_M>
+    <SCRTEXT_L>Personalnummer</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
